@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sat Dec 16 19:49:36 IST 2023
+org.eclipse.jst.jee.server\:shopNest=C\:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\wtpwebapps\\shopNest
+org.eclipse.jst.jee.server\:First=C\:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\wtpwebapps\\First
